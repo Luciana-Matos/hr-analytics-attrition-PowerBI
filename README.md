@@ -14,6 +14,10 @@ The analysis uses a synthetic HR dataset simulating employee records from 2012 t
 - **Dim_EducationalLevel**: Maps education levels such as Doctorate, Master's, Bachelor's, High School, No Formal Education.
 - **Dim_RatingLevel / Dim_SatisfiedLevel**: Lookup tables for rating descriptions — "Very Satisfied", “Satisfied”, "Neutral", “Dissatisfied”, “Very Dissatisfied".
 
+## 📽️ Walkthrough Demo
+
+https://youtu.be/Y_iqcrfsxto
+
 ## 📌 Dashboard Sections
 
 **1\. Company Overview**
