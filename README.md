@@ -16,7 +16,10 @@ The analysis uses a synthetic HR dataset simulating employee records from 2012 t
 
 ## 📽️ Walkthrough Demo
 
-https://youtu.be/Y_iqcrfsxto
+[See demo on YouTube](https://youtu.be/Y_iqcrfsxto)
+
+[![image](https://github.com/user-attachments/assets/2ce9340c-59f0-4051-ba1b-9522c204288c)](https://youtu.be/Y_iqcrfsxto)
+
 
 ## 📌 Dashboard Sections
 
